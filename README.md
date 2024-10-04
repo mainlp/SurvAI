@@ -28,9 +28,9 @@
 Welcome to the repository for the **Tutorial: How to Query LLMs / Pitfalls in Prompting / Caution in Prompting**.
 
 ## Teaching Material
-Here you can find the [slides]().
+Here you can find the [slides](https://docs.google.com/presentation/d/1Wzybiu_n3QE_BF5BXVJmMuUqxZy9IjKg2J93-sH0EFw/edit?usp=sharing).
 
-Later during the tutorial, we will be using a Colab notebook to interact with the models. You can find the notebook [here](https://colab.research.google.com/github/your-username/your-repo/blob/main/your-notebook.ipynb).
+Later during the tutorial, we will be using a Colab notebook to interact with the models. You can find the notebook [here](https://colab.research.google.com/github/mainlp/SurvAI/blob/main/Prompting_Pitfall.ipynb).
 
 ## Contact
 For any questions, feel free to reach out to [p.mondorf@lmu.de](mailto:p.mondorf@lmu.de) or [xinpeng@lmu.de](mailto:xinpeng@cis.lmu.de)
