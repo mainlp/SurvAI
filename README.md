@@ -2,7 +2,7 @@
 
 <p align="center">
     <!-- Open in Colab Badge -->
-    <a href="https://colab.research.google.com/github/PMMon/SURVAI-Days/blob/main/Prompting_Pitfall.ipynb" target="_blank" style="display: inline-flex; align-items: center; margin-right: 40px; vertical-align: middle;">
+    <a href="https://colab.research.google.com/github/mainlp/SurvAI/blob/main/Prompting_Pitfall.ipynb" target="_blank" style="display: inline-flex; align-items: center; margin-right: 40px; vertical-align: middle;">
         <img alt="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
     </a>
     <!-- Custom Workshop Website Badge -->
